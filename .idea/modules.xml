@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewBroadCast.iml" filepath="$PROJECT_DIR$/NewBroadCast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmamager/alarmmamager.iml" filepath="$PROJECT_DIR$/alarmmamager/alarmmamager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprivate/contentprivate.iml" filepath="$PROJECT_DIR$/contentprivate/contentprivate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprivate2/contentprivate2.iml" filepath="$PROJECT_DIR$/contentprivate2/contentprivate2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentbundleactivity/intentbundleactivity.iml" filepath="$PROJECT_DIR$/intentbundleactivity/intentbundleactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentphone/intentphone.iml" filepath="$PROJECT_DIR$/intentphone/intentphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedprefences/sharedprefences.iml" filepath="$PROJECT_DIR$/sharedprefences/sharedprefences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerfor/viewpagerfor.iml" filepath="$PROJECT_DIR$/viewpagerfor/viewpagerfor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagersan/viewpagersan.iml" filepath="$PROJECT_DIR$/viewpagersan/viewpagersan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagertow/viewpagertow.iml" filepath="$PROJECT_DIR$/viewpagertow/viewpagertow.iml" />
+    </modules>
+  </component>
+</project>

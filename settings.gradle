@@ -1,0 +1,1 @@
+include ':app', ':intentbundleactivity', ':sharedprefences', ':intentphone', ':contentprivate', ':contentprivate2', ':alarmmamager', ':viewpager', ':viewpagertow', ':viewpagersan', ':viewpagerfor'
